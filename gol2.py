@@ -63,7 +63,6 @@ Code.is_duplicate_there(list_a, list_b)
 
 print("Please tell me where your bases are")
 
-print("Thanks sucker !")
-
 print("all your base are now belong to us")
 
+print('lol')
