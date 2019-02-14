@@ -60,3 +60,10 @@ list_a = [1,2,3,4,5]
 list_b = [5,7,8,9,10]
 
 Code.is_duplicate_there(list_a, list_b)
+
+print("Please tell me where your bases are")
+
+print("Thanks sucker !")
+
+print("all your base are now belong to us")
+
